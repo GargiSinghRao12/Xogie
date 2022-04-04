@@ -1,0 +1,6 @@
+module Pods_Xogie_XogieTests {
+  umbrella header "Pods-Xogie-XogieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
